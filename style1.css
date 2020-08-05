@@ -1,0 +1,36 @@
+.nav-dark {
+padding-bottom: 20px;}
+.heading{
+    padding-top: 60px;
+}
+.color {
+    color: #0c630c;
+}
+.avatar-pic {
+    width: 200px;
+    }
+.active{
+    background-color: #666;
+    color: white;
+    border-radius: 10px;
+}
+a h1:hover {
+    text-decoration: underline;
+}
+.change {
+    box-sizing: content-box;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 2%;
+    padding: 2%;
+    width: 300px;
+    height: 600px;
+    color: #000000;
+    opacity: 0.8;
+    background-color: rgb(246, 255, 255);
+    transition: 1s ease;
+}
+ul li:hover{
+text-decoration: underline;
+}
